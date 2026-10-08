@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\53192937807\\source\\repos\\POO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|c:\\users\\53192937807\\source\\repos\\poo\\poo\\pessoametodo2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|solutionrelative:poo\\pessoametodo2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|c:\\users\\53192937807\\source\\repos\\poo\\poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|solutionrelative:poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|c:\\users\\53192937807\\source\\repos\\poo\\poo\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|solutionrelative:poo\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|c:\\users\\53192937807\\source\\repos\\poo\\poo\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|solutionrelative:poo\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|c:\\users\\53192937807\\source\\repos\\poo\\poo\\exercicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|solutionrelative:poo\\exercicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|c:\\users\\53192937807\\source\\repos\\poo\\poo\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|solutionrelative:poo\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PessoaMetodo2.cs",
+              "DocumentMoniker": "C:\\Users\\53192937807\\source\\repos\\POO\\POO\\PessoaMetodo2.cs",
+              "RelativeDocumentMoniker": "POO\\PessoaMetodo2.cs",
+              "ToolTip": "C:\\Users\\53192937807\\source\\repos\\POO\\POO\\PessoaMetodo2.cs*",
+              "RelativeToolTip": "POO\\PessoaMetodo2.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T22:25:54.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Retangulo.cs",
+              "DocumentMoniker": "C:\\Users\\53192937807\\source\\repos\\POO\\POO\\Retangulo.cs",
+              "RelativeDocumentMoniker": "POO\\Retangulo.cs",
+              "ToolTip": "C:\\Users\\53192937807\\source\\repos\\POO\\POO\\Retangulo.cs",
+              "RelativeToolTip": "POO\\Retangulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T23:14:27.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Exercicios.cs",
+              "DocumentMoniker": "C:\\Users\\53192937807\\source\\repos\\POO\\POO\\Exercicios.cs",
+              "RelativeDocumentMoniker": "POO\\Exercicios.cs",
+              "ToolTip": "C:\\Users\\53192937807\\source\\repos\\POO\\POO\\Exercicios.cs",
+              "RelativeToolTip": "POO\\Exercicios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T22:39:29.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\53192937807\\source\\repos\\POO\\POO\\Pedido.cs",
+              "RelativeDocumentMoniker": "POO\\Pedido.cs",
+              "ToolTip": "C:\\Users\\53192937807\\source\\repos\\POO\\POO\\Pedido.cs",
+              "RelativeToolTip": "POO\\Pedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T00:28:57.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\53192937807\\source\\repos\\POO\\POO\\Program.cs",
+              "RelativeDocumentMoniker": "POO\\Program.cs",
+              "ToolTip": "C:\\Users\\53192937807\\source\\repos\\POO\\POO\\Program.cs",
+              "RelativeToolTip": "POO\\Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T22:34:56.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Carro.cs",
+              "DocumentMoniker": "C:\\Users\\53192937807\\source\\repos\\POO\\POO\\Carro.cs",
+              "RelativeDocumentMoniker": "POO\\Carro.cs",
+              "ToolTip": "C:\\Users\\53192937807\\source\\repos\\POO\\POO\\Carro.cs",
+              "RelativeToolTip": "POO\\Carro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T23:04:09.213Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
