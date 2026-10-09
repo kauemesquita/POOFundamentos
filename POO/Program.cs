@@ -71,3 +71,13 @@ ana.CumprimentarAlguem("Bruno");
 
 string frase = ana.ObterApresentacao();
 Console.WriteLine(frase);
+
+Retangulo2 rtg = new Retangulo2();
+rtg.Altura = 3;
+rtg.Largura = 5;
+
+rtg.CalcularArea();
+rtg.CalcularPerimetro();
+
+Console.WriteLine(rtg.CalcularArea());
+Console.WriteLine(rtg.CalcularPerimetro());

@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\53192937807\\source\\repos\\POO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|c:\\users\\53192937807\\source\\repos\\poo\\poo\\pessoametodo2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|solutionrelative:poo\\pessoametodo2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|c:\\users\\53192937807\\source\\repos\\poo\\poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|solutionrelative:poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|c:\\users\\53192937807\\source\\repos\\poo\\poo\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|solutionrelative:poo\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|c:\\users\\53192937807\\source\\repos\\poo\\poo\\retangulo2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|solutionrelative:poo\\retangulo2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|c:\\users\\53192937807\\source\\repos\\poo\\poo\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|solutionrelative:poo\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|c:\\users\\53192937807\\source\\repos\\poo\\poo\\exercicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|solutionrelative:poo\\exercicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|c:\\users\\53192937807\\source\\repos\\poo\\poo\\pessoametodo2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|solutionrelative:poo\\pessoametodo2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|c:\\users\\53192937807\\source\\repos\\poo\\poo\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|solutionrelative:poo\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|c:\\users\\53192937807\\source\\repos\\poo\\poo\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|solutionrelative:poo\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|c:\\users\\53192937807\\source\\repos\\poo\\poo\\exercicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|solutionrelative:poo\\exercicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,37 +38,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Retangulo2.cs",
+              "DocumentMoniker": "C:\\Users\\53192937807\\source\\repos\\POO\\POO\\Retangulo2.cs",
+              "RelativeDocumentMoniker": "POO\\Retangulo2.cs",
+              "ToolTip": "C:\\Users\\53192937807\\source\\repos\\POO\\POO\\Retangulo2.cs",
+              "RelativeToolTip": "POO\\Retangulo2.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T23:29:16.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "PessoaMetodo2.cs",
               "DocumentMoniker": "C:\\Users\\53192937807\\source\\repos\\POO\\POO\\PessoaMetodo2.cs",
               "RelativeDocumentMoniker": "POO\\PessoaMetodo2.cs",
-              "ToolTip": "C:\\Users\\53192937807\\source\\repos\\POO\\POO\\PessoaMetodo2.cs*",
-              "RelativeToolTip": "POO\\PessoaMetodo2.cs*",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBYAAAAVAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\53192937807\\source\\repos\\POO\\POO\\PessoaMetodo2.cs",
+              "RelativeToolTip": "POO\\PessoaMetodo2.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-08T22:25:54.32Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Retangulo.cs",
               "DocumentMoniker": "C:\\Users\\53192937807\\source\\repos\\POO\\POO\\Retangulo.cs",
               "RelativeDocumentMoniker": "POO\\Retangulo.cs",
               "ToolTip": "C:\\Users\\53192937807\\source\\repos\\POO\\POO\\Retangulo.cs",
               "RelativeToolTip": "POO\\Retangulo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-07T23:14:27.516Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Exercicios.cs",
               "DocumentMoniker": "C:\\Users\\53192937807\\source\\repos\\POO\\POO\\Exercicios.cs",
               "RelativeDocumentMoniker": "POO\\Exercicios.cs",
@@ -72,8 +89,7 @@
               "RelativeToolTip": "POO\\Exercicios.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T22:39:29.279Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-07T22:39:29.279Z"
             },
             {
               "$type": "Document",
@@ -85,24 +101,25 @@
               "RelativeToolTip": "POO\\Pedido.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T00:28:57.152Z"
+              "WhenOpened": "2026-10-07T00:28:57.152Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\53192937807\\source\\repos\\POO\\POO\\Program.cs",
               "RelativeDocumentMoniker": "POO\\Program.cs",
-              "ToolTip": "C:\\Users\\53192937807\\source\\repos\\POO\\POO\\Program.cs",
-              "RelativeToolTip": "POO\\Program.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAAEgAAAAZAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\53192937807\\source\\repos\\POO\\POO\\Program.cs*",
+              "RelativeToolTip": "POO\\Program.cs*",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAFIAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-06T22:34:56.322Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Carro.cs",
               "DocumentMoniker": "C:\\Users\\53192937807\\source\\repos\\POO\\POO\\Carro.cs",
               "RelativeDocumentMoniker": "POO\\Carro.cs",
